@@ -12,4 +12,8 @@ class MyKotlinClas {
     fun myMinus2(a: Int, b: Int): Int{
         return a-b
     }
+
+    fun myMinus3(a: Int, b: Int): Int{
+        return a-b
+    }
 }
