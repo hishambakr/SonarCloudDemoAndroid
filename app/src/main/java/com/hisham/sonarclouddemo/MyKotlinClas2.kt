@@ -14,6 +14,7 @@ class MyKotlinClas2 {
     }
 
     fun myMinus3(a: Int, b: Int): Int{
-        return a-b
+        val c = 5
+        return 2
     }
 }
