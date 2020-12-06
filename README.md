@@ -1,1 +1,1 @@
-# SonarCloudDemoAndroid
+# SonarCloudDemoAndroid.
